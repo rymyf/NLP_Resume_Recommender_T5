@@ -14,10 +14,10 @@
 The dataset consists of 2 features and 962 observations.
 Below is a description of the features: 
 
-| Feature name  | Description   | Data type |
+| Feature name  | Description   | Data type     |
 | ------------- | ------------- | ------------- |
-| Category       | field of resume |  object          |
-| Resume       | resume contents | object           |
+| Category       | field of resume |  object    |
+| Resume       | resume contents | object       |
 
 
 ## Algorithms
