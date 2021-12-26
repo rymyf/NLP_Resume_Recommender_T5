@@ -27,7 +27,7 @@ Below is a description of the features:
 
 
 ## Algorithms
-topic model
+- Topic modeling
 
 ## Tools
 - Libraries: 
