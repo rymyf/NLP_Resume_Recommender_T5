@@ -4,11 +4,10 @@
 
 ## Table of contents
 * [Data Description](#data-description)
-* [Questions](#questions)
 * [Algorithms](#algorithms)
 * [Tools](#tools)
 * [Source](#source)
-* [MVP goals](#mvp-goals)
+* [Goals](#mvp-goals)
 * [Authors](#authors)
 
 ## Data Description
@@ -45,8 +44,9 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg??style=flat&logo=flask&logoColor=white)
 
 ## Source
+From kaggle [here](https://www.kaggle.com/gauravduttakiit/resume-dataset)
 
-## MVP goals
+## Goals
 
 
 # Authors
