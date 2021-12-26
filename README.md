@@ -11,15 +11,17 @@
 * [Authors](#authors)
 
 ## Data Description
+The dataset consists of 2 features and 962 observations.
+Below is a description of the features: 
 
-
-
-
-## Questions
+| Feature name  | Description   | Data type |
+| ------------- | ------------- | ------------- |
+| Category       | field of resume |  object          |
+| Resume       | resume contents | object           |
 
 
 ## Algorithms
-
+-
 
 ## Tools
 - Libraries: 
