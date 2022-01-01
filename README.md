@@ -2,10 +2,7 @@
 ![name-of-you-image](https://github.com/rymyf/NLP_Classification_T5/blob/main/pics/words.png?raw=true)
 
 ## Data Overview
-Companies often receive thousands of resumes for each job posting and employ dedicated screening officers to screen qualified candidates.
-Hiring the right talent is a challenge for all businesses. This challenge is magnified by the high volume of applicants if the business is labour-intensive, growing, and facing high attrition rates.
-IT departments are short of growing markets. In a typical service organization, professionals with a variety of technical skills and business domain expertise are hired and assigned to projects to resolve customer issues. This task of selecting the best talent among many others is known as Resume Screening.
-Typically, large companies do not have enough time to open each CV, so they use machine learning algorithms for the Resume Screening task.
+Companies often receive thousands of resumes for each job posting and employ dedicated screening officers to screen qualified candidates. Hiring the right talent is a challenge for all businesses. This challenge is magnified by the high volume of applicants if the business is labour intensive, growing, and facing high attrition rates.
 
 ## Table of contents
 * [Data Description](#data-description)
@@ -26,7 +23,7 @@ Below is a description of the features:
 
 
 ## Algorithms
-- Topic modeling
+- Topic modeling ( LSA, LDA )
 
 ## Tools
 - Libraries: 
@@ -36,9 +33,13 @@ Below is a description of the features:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg??style=flat&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg??style=flat&logo=scikit-learn&logoColor=white)
 ![nltk](https://img.shields.io/badge/nltk-%2006600.svg??style=flat&color=red)
+![RE](https://img.shields.io/badge/RE-%233F4F75.svg??style=flat&color=green)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg??style=flat&logo=plotly&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/matplotlib-%233F4F75.svg??style=flat&color=9cf)
-![pywaffle](https://img.shields.io/badge/pywaffle-%233F4F75.svg??style=flat&color=yellow)
+![Gensim](https://img.shields.io/badge/Gensim-%233F4F75.svg??style=flat&color=yellow)
+![pyLDA](https://img.shields.io/badge/pyLDA-%233F4F75.svg??style=flat&color=green)
+![Flask](https://img.shields.io/badge/flask-%23000.svg??style=flat&logo=flask&logoColor=white)
+
 
 - Softwares: 
 
@@ -48,13 +49,13 @@ Below is a description of the features:
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg??style=flat&logo=Trello&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01??style=flat&logo=microsoft-office&logoColor=white)
 ![zoom](https://img.shields.io/badge/Zoom-2D8CFF??style=flat&logo=zoom&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg??style=flat&logo=flask&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-330F63??style=flat&logo=Postman&logoColor=white)
 
 ## Source
 From kaggle [here](https://www.kaggle.com/gauravduttakiit/resume-dataset)
 
-## Goals
-
+## Goal
+Facilitating the process of categorizing and selecting candidates with the required skills, which will save time and effort for large companies.
 
 # Authors
 
