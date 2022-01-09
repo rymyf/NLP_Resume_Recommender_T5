@@ -9,7 +9,7 @@ Companies often receive thousands of resumes for each job posting and employ ded
 * [Algorithms](#algorithms)
 * [Tools](#tools)
 * [Source](#source)
-* [Goals](#mvp-goals)
+* [Goal](#goal)
 * [Authors](#authors)
 
 ## Data Description
