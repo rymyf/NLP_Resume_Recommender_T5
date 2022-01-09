@@ -66,5 +66,5 @@ Facilitating the process of categorizing and selecting candidates with the requi
 [@ShathaAlghamdi](https://github.com/ShathaAlghamdi)
 
 <p align=”right”>
-<img src="pics/logo.gif" alt="My Project GIF" width="200" height="200">
+<img src="pics/logogif.gif" alt="My Project GIF" width="300" height="300">
 </p>
